@@ -1,0 +1,80 @@
+5-08-24
+coding-bat (logic 1)
+
+6-08-2024
+wapt compare 2mumbers < > <= >=
+wapt disply student result where  condition : 80-100 passedwith distinction,60-79 -it is  first class,50-59 second class,30-49 pass else fail and if the give value is greater than 100 then it is invalid
+wapt check find the greatest among 2 numbers
+wapt check given no is prime or not
+wapt check char is owel or not
+
+7-08-14
+wapt print no from 1-100
+wapt print even no from 1-10
+wapt print multiple of 3 reverse order
+wapt print no from 1-5 without using for loop
+wapt check given no is even or not from range and loop should run atleast once
+*
+**
+***
+****
+*****
+
+11111
+22222
+33333
+44444
+55555
+
+*****
+****
+***
+**
+*
+
+8-7-24
+wapt cal simple interest
+wapt find avg of 1 -100
+wapt swap 2 no
+wapt swap 2 no without using 3rd var
+wapt check given char is digit /numerical or not
+wapt factorial
+fibonacci serries
+
+9-8-24
+find max value inside the array using swapping method
+wapt findout how many 10 is occured in a given array
+find a min element in a given array
+implement binary and linear  search given aarray
+find the sum of all elements in a given array
+8415808964293
+
+
+12-8-2024
+wapt dsiplay customer details of a bank where 
+condition:
+disply withdraw method
+deposit method
+bank name as static
+find out total amount in the present account
+
+contain the details of account no , name of accountholder, available balance
+
+wapt disply employee details:
+condition: disply name,role,dept,location,salary
+functoion memeber:detail of employee,company  name static, increment salary by 10%
+
+
+create class of a bank  where the bank details   n all customer details
+create 2nd class  as branhch where wat to acess properties of acc holder by creating 
+1:object of a parent class
+2:object of sub class
+3:object  of service class
+
+create a class of a student where we have a data menmbers has a name usn  dept sec containing  method of  calculatiion od average
+sub class of marks where we have m1 m2 m3
+acess properties of student who are scored  more than 70 in all the subjects
+
+y cant we achieve myltilevel in java
+
+
