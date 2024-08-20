@@ -77,3 +77,25 @@ acess properties of student who are scored  more than 70 in all the subjects
 
 y cant we achieve multilevel in java
 
+
+interface:
+photo eidt: interface name
+add on :method name(void)
+add location
+host:4 different method:void
+like,comment,share,save:methid in host interface
+3rd method :vedioedit-interface name:3method-mute add song add filter void type all are
+2 diff class:1 photo extracting property from  photo edit n host
+2nd class  vedio which is extracting property from host n vedioedit
+inforont od host class some more method of that is add filter that is void type,data memeber,size of innt type
+vedio class:
+	just add data member as duratioon,returtn type is double
+	function member is trim  which is oftype void
+
+
+    2 interface run 1 n run 2:
+    2un 1: test method name  void type
+    run 2: method  test 1  void 
+    superclass : a namee function member is  test 3 void type
+    sub class: which is  extracting property from  2 interfaces one class
+    
