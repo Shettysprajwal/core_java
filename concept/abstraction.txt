@@ -1,0 +1,51 @@
+3 layerd architecture
+abstract method /interface
+
+1) generalizing all superclass method and declare has a method
+    obj implementation
+    object corelation
+    object utiliation
+
+2)specification
+def: 
+upcasting :ref var of super type   and intinalizing with  subclass  object
+derived class also called
+creating a obj od subclass and storing it in super class
+downcasting:
+using same class refernce variable
+converting upcaste back it into org  subclass usingref var 
+
+
+objectt utiliazation layer:
+utilizing upcasted ref var @returned by obj creation layer
+call the generalizing method
+
+3 layers:
+obj implementation:
+    user interface:
+        implement properties into 2 diff class
+        2CLASS: ATM:transsaction method, weB-tranfer method
+        web  online payment
+        atm withdrawal method
+        user name ,accno,bank name,withdrsw method is same,currrent bal common for both subclass
+        (generlisezed method declare in  super type as interface)
+
+object creation layer:
+    service layer aslso called
+    creating a  obj we hv
+    achieve upcasting concept 
+
+object utilization:
+    main method
+    class name -main account 
+    utilize upcasted 
+    object ll sub created into utilize layer
+    downcasting method
+
+return type fin out person is right or not  for autehticate and security in 2nd layer service layer,object creation layer
+and upcasting  ll be done ad  secured  layer
+
+
+1 bank
+2  application of watsapp
+java is used for banking purpose for security reason 

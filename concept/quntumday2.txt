@@ -1,0 +1,9 @@
+represntation od stat:
+alice bob-> abstact entity
+
+density martric:
+in case of head |0> ->1/2
+in case of tails->1>
+
+
+einsteirn podolsky rosen paradox and non-locality

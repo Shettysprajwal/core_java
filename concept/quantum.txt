@@ -1,0 +1,102 @@
+bit v/s qubit
+binary computers
+processor using transistor  to perform calculation
+on off  or 1 0 
+game changes with quntim computers 
+processing and stoage of 1's n 0's of classical systems give way to qubits or quntim bits
+qubit  is the fundemental 
+
+qubitbit of data  - by a single atom that is one of 2 states denoted y |0> n|1> know as qubit :super posiion state  
+o n 1 special combination being here and where together and connot be in super position  
+
+classical computation 
+data unit :bit  dark circle = 1 white circle =0
+x=0 or 1
+quntum  computation:
+data unit:qubit 
+uper arrow 1
+down arorow =0 
+
+power of qubits is their inherit ability to scale expoenntialy with posibilty of quantum superposition
+
+2 qubit machine allows for 4 calculation ,a 3 qubit machine allow for 8 calculation
+4 qubit machine allows for 16 calculation
+
+if n=50 we hv abt 10 ^15 possible states of the quantum machine a no that exaveds the capacity of larger st conventional classical computer
+n  qubits encode 2^n bit
+
+wt is made of:
+    qunatum particles
+    alorithms
+    hardware
+practical implementation:
+    ion traps
+    nmr -nuclear magnetic resonnance
+    optical phton computer
+    solid state
+
+    quntim resources:
+        superposition
+        entanglement:the corelation
+        entangle:ability of quntum sys to exhinbit correlations b/w states b/w states within a superpositoin
+
+        
+alice bob(symbol):
+if alicebob:ab=not euqla to  bob >a|bob> b
+then the state is entangled
+entanglemnt as a resource it is believed to be the main ingrefient of computational speed-up in quntum info protocols
+
+somee quntium algo  can turn EXP prblm into P prblm
+l=inputsize= total of  bits need to specify7 yhr input of prtblm
+t= execuition time
+shor's algorithms
+factorise one no
+
+prime facots of very large uint:
+    best classocal algo requires exp(0(N1/3))
+    shor salgo on qutum computer using thr beckman chari devabhadukni bcdp algo 
+
+    exeecution time to factor a number on classical n quntum computers
+    classical computer running the general no field sieve
+
+
+    in 2001 shors algo was demonstrated by a grp at ibm wbhp facotorred 15 into 3*5 using 
+
+
+    rsa encrypt is a publix key crypto based on prime facote
+    employed gor online securtiy when using weeb browser 
+    are ccapable of breaking rsa encrypt
+    no need to worry abt online securty 
+    is still in its infancy]
+    research on encryt schemes that are quntum proof had already begun to comeup with alternative to rsa 
+    size of n    clasical    quntum
+    rsa -250 3000 yr            min
+    rsa 600  1500000000000yr   hrs
+
+    commerical application :
+    chemical n biological engg
+    cyber securtity
+    financial servieces
+
+    comnninatorics calcultions
+    deal with dfinding an optimal arrg of items  given large no fo items
+hadamard controlled not (cnot)gates and bell state construction
+sinfle qubit
+2qubit
+ 
+ bfr after
+ control taget 
+ 0000
+ 0101
+ 1011
+ 1110
+ the cnot fate operates on quntum register consisting od 2 qubits
+ cnot gate flips the 2nd qubit 
+
+
+![alt text](image.png)
+
+
+
+
+    
