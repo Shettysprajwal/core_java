@@ -1,0 +1,31 @@
+
+checked exceptions 
+    checked exceptions are also known as compileTime exceptions.
+    Checked exceptions are those which need to be taken care at compile time.
+
+
+unchecked exceptions 
+    unchecked exceptions are also known as runtime exceptions.
+    Unchecked exceptions are those which need to be taken care at runtime.
+
+java.lang.Error 
+    Error is a subclass of Throwable 
+    Error indicates some serious problems that our application should not try to catch. 
+    Errors are abnormal conditions in application. 
+    Error and its subclasses are regarded as unchecked exceptions 
+
+
+
+Classes in above hierarchy >
+
+    java.lang.Object is superclass of all classes in java.
+
+    java.lang.Throwable is superclass of java.lang.Exception and java.lang.Error
+
+    java.lang.Exception is superclass of java.lang.RuntimeException, IOException, SQLException, BrokenBarrierException and many more other classes in java.
+
+    java.lang.RuntimeException is superclass of java.lang.NullPointerException, ArithmeticException and many more other classes in java.
+
+    java.lang.Error is superclass of java.lang.VirtualMachineError, IOError, AssertionError, ThreadDeath and many more other classes in java.
+
+    java.lang.VirtualMachineError is superclass of java.lang.OutOfMemoryError, StackOverflowError and many more other classes in java.
